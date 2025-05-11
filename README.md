@@ -1,4 +1,3 @@
-# Excel-sales-analytics
 # 📊 Sales & Finance Analytics Project
 
 ## 🚀 Project Objectives:
@@ -22,9 +21,9 @@ The purpose of this analysis is to enable better strategic decision-making by pr
 - Supports budgeting, planning, and forecasting initiatives.
 
 ## 📈 Reports Developed:
-- ✅ Customer Sales Report  
-- ✅ Profit & Loss by Country  
-- ✅ Gross Margin % by Quarter
+- ✅ [Customer Sales Report](https://github.com/farhan0111xx/Excel-sales-analytics/blob/main/CUSTOMERSALES_REPORTFARHAN.pdf)
+- ✅ [Profit & Loss by Country](https://github.com/farhan0111xx/Excel-sales-analytics/blob/main/P%26LBYCOUNTRY.pdf)
+- ✅ [Gross Margin % by Quarter](https://github.com/farhan0111xx/Excel-sales-analytics/blob/main/SALES2_REPORTFARHAN.pdf)
 
 ## 🛠 Technical Skills Applied:
 - ETL processes using Power Query
